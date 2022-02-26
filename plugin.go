@@ -1,4 +1,4 @@
-package traefikCloudflareIp
+package traefik_cloudflare_ip
 
 import (
 	"context"
