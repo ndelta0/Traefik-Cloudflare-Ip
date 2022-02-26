@@ -1,0 +1,5 @@
+displayName: Traefik Cloudflare IP
+type: middleware
+import: github.com/ndelta0/Traefik-Cloudflare-Ip
+summary: Transforms headers to use Cloudflare's IP header
+testData: {}
